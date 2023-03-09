@@ -1,4 +1,5 @@
 # Cookiecutter project templates
+
 A repository of Cookiecutter project templates
 
 ## Template activation
