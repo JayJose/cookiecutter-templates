@@ -1,0 +1,5 @@
+version: 2
+
+models:
+  - name: {{cookiecutter.schema_name}}_int_model
+    description: Describe the model here.
