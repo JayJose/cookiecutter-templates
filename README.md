@@ -6,3 +6,7 @@ A repository of Cookiecutter project templates
 
 To activate a specific template use  
 `cookiecutter https://github.com/JayJose/cookiecutter-templates.git --directory="directory-name"`
+
+## Templates
+
+🚧 This section is under construction. 🚧
